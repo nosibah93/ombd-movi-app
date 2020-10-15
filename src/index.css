@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(255, 254, 254);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.topnav {
+  background-color: rgb(0, 0, 0);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: rgba(245, 245, 245, 0.993);
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #f2f54c;
+  color: white;
+}
+
+
+#title1 {
+color: rgb(253, 253, 253);
+width: 50%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+#title2 {
+  color: rgb(231, 235, 1);
+  width: 50%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  }
+   
+  /* .search-container {
+    float: right;
+  }
+  .search-container button {
+    width: 20px;
+  height: 20px;
+  } */
+  #search {
+    float: right;
+    display: inline;
+    width: 50%;
+    padding-top: 1px;
+    
+    }
